@@ -1,0 +1,31 @@
+
+*{
+    margin:0;
+    padding:0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:18px;
+}
+body{
+    background-color: rgb(228, 151, 36);
+    color:rgb(36, 35, 35);
+    width:90%;
+    margin:auto;
+    
+}
+h2{
+    margin:15px 0px;
+    text-align:center;
+}
+#restart {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  #restart:hover {
+    background-color: #161616;
+  }
